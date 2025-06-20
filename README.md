@@ -1,6 +1,6 @@
 # Multi-Label Food Classification with Deep Learning Ensembles
 
-
+This project tackles multi-label food classification using deep learning and ensemble methods, developed as part of a Kaggle competition. We combined models like Swin Transformer and ViT to boost accuracy on a challenging real-world dataset.
 
 ![Sampled Images](./random_images.png)
 
