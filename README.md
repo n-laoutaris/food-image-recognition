@@ -57,11 +57,11 @@ Ensemble results were evaluated with hand-crafted metrics such as disagreement r
 
 ## Repository Contents
 
-- EDA_Notebook.ipynb: Explores image properties and label distributions. Also includes analysis of prediction outputs and error cases post-submission.
-- Individual_Notebook.ipynb: End-to-end pipeline for training, validating and testing a single model.
-- Ensemble_Notebook.ipynb: Loads multiple trained models, applies ensemble strategies, analyzes model influence.
-- Report.pdf: A detailed written report for those interested in a deeper dive. Explains methodology, experiments, results and lessons learned.
-- requirements.txt: Lists all Python dependencies required to run the notebooks.
+- `EDA_Notebook.ipynb`: Explores image properties and label distributions. Also includes analysis of prediction outputs and error cases post-submission.
+- `Individual_Notebook.ipynb`: End-to-end pipeline for training, validating and testing a single model.
+- `Ensemble_Notebook.ipynb`: Loads multiple trained models, applies ensemble strategies, analyzes model influence.
+- `Report.pdf`: A detailed written report for those interested in a deeper dive. Explains methodology, experiments, results and lessons learned.
+- `requirements.txt`: Lists all Python dependencies required to run the notebooks.
 
 ## Project Context
 
