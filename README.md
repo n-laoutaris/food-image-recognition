@@ -2,7 +2,7 @@
 
 This project shows our approach of a multi-label food image classification problem using deep learning and ensemble methods, developed as part of an in-class Kaggle competition.
 
-![Sampled Images](./random_images.png)
+![Sampled Images](./images/random_images.png)
 
 ## Project Context
 
