@@ -32,7 +32,7 @@ The dataset used was adapted from the [AIcrowd Food Recognition Benchmark (2022)
 ## Methodology
 
 **Exploratory Data Analysis**:
-Began with Exploratory data analysis to understand the dataset’s characteristics like terms of image size, label distributions etc.
+Began with Exploratory data analysis to understand the dataset’s characteristics like image size, label distributions etc.
 
 **Literature Review**:
 Researched any recent relevant papers on the topic of image recognition to identify the cutting-edge pre-trained backbones with the best performance, intending to use them through Transfer Learning.
