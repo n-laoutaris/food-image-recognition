@@ -4,6 +4,10 @@ This project approaches a multi-label food image classification problem using de
 
 ![Sampled Images](./images/random_images.png)
 
+## The Problem
+
+Recognizing food items from images is a challenging and far from trivial problem in computer vision. Its importance is particularly apparent in contexts like dietary tracking or nutrition logging. Unlike many typical image classification tasks, food recognition is inherently multi-label; a single dish may contain multiple components, where some can be subtle or occluded.
+
 ## Repository Contents
 
 - EDA_Notebook.ipynb: Explores image properties and label distributions. Also includes analysis of prediction outputs and error cases post-submission.
@@ -11,10 +15,6 @@ This project approaches a multi-label food image classification problem using de
 - Ensemble_Notebook.ipynb: Loads multiple trained models, applies ensemble strategies, analyzes model influence.
 - Report.pdf: A detailed written report for those interested in a deeper dive. Explains methodology, experiments, results and lessons learned.
 - requirements.txt: Lists all Python dependencies required to run the notebooks.
-
-## The Problem
-
-Recognizing food items from images is a challenging and far from trivial problem in computer vision. Its importance is particularly apparent in contexts like dietary tracking or nutrition logging. Unlike many typical image classification tasks, food recognition is inherently multi-label; a single dish may contain multiple components, where some can be subtle or occluded.
 
 This project tackles the real-world challenge of building a strong and scalable multi-label classifier that performs well in everyday, messy environments like kitchens and dinner tables, using photographs that are taken in less than ideal circumstances, mimicking how one would protograph their food right before (or even during) their meal.
 
