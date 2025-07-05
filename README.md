@@ -8,7 +8,7 @@ This project approaches a multi-label food image classification problem using de
 
 Recognizing food items from images is a challenging and far from trivial problem in computer vision. Its importance is particularly apparent in contexts like dietary tracking or nutrition logging. Unlike many typical image classification tasks, food recognition is inherently multi-label; a single dish may contain multiple components, where some can be subtle or occluded.
 
-This project tackles the real-world challenge of building a strong and scalable multi-label classifier that performs well in everyday, messy environments like kitchens and dinner tables, using photographs that are taken in less than ideal circumstances, mimicking how one would protograph their food right before (or even during) their meal.
+This project tackles the real-world challenge of building a strong and scalable multi-label classifier that performs well in everyday, messy environments like kitchens and dinner tables, using photographs that are taken in less than ideal circumstances, mimicking how one would photograph their food right before (or even during) their meal.
 
 My ultimate personal goal is to use the final pipeline to classify my own meals using a collection of personal photographs.
 
@@ -61,7 +61,7 @@ Ensemble results were evaluated with hand-crafted metrics such as disagreement r
 
 ### In progress
 
-- Test the ensemble again using personally shot phorographs of my own meals, as the ultimate test of generalization.
+- Test the ensemble again using personally shot photographs of my own meals, as the ultimate test of generalization.
 
 ## Project Context
 
