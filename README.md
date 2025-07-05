@@ -12,14 +12,6 @@ This project tackles the real-world challenge of building a strong and scalable 
 
 My ultimate personal goal is to use the final pipeline to classify my own meals using a collection of personal photographs.
 
-## Repository Contents
-
-- EDA_Notebook.ipynb: Explores image properties and label distributions. Also includes analysis of prediction outputs and error cases post-submission.
-- Individual_Notebook.ipynb: End-to-end pipeline for training, validating and testing a single model.
-- Ensemble_Notebook.ipynb: Loads multiple trained models, applies ensemble strategies, analyzes model influence.
-- Report.pdf: A detailed written report for those interested in a deeper dive. Explains methodology, experiments, results and lessons learned.
-- requirements.txt: Lists all Python dependencies required to run the notebooks.
-
 ## The Dataset
 
 The dataset used was adapted from the [AIcrowd Food Recognition Benchmark (2022)](https://www.aicrowd.com/challenges/food-recognition-benchmark-2022) and consists of color food images captured in common, unconstrained environments. Each image may contain one or more food items from a predefined list of 498 possible food categories.
@@ -62,6 +54,14 @@ Ensemble results were evaluated with hand-crafted metrics such as disagreement r
 ### In progress
 
 - Test the ensemble again using personally shot photographs of my own meals, as the ultimate test of generalization.
+
+## Repository Contents
+
+- EDA_Notebook.ipynb: Explores image properties and label distributions. Also includes analysis of prediction outputs and error cases post-submission.
+- Individual_Notebook.ipynb: End-to-end pipeline for training, validating and testing a single model.
+- Ensemble_Notebook.ipynb: Loads multiple trained models, applies ensemble strategies, analyzes model influence.
+- Report.pdf: A detailed written report for those interested in a deeper dive. Explains methodology, experiments, results and lessons learned.
+- requirements.txt: Lists all Python dependencies required to run the notebooks.
 
 ## Project Context
 
